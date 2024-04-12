@@ -127,13 +127,14 @@ nav {
   #i1 {
     color: blue;
   }
-  #i2 {
-    color: #000;
-  }
   #i3 {
     color: red;
   }
 }
+.i2:hover{
+  background-color: #000;
+}
+
 .resume {
   width: fit-content;
   padding: 6px 12px;
