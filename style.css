@@ -55,7 +55,7 @@ nav {
   line-height: 80px;
   font-size: 1.5rem;
 }
-@media (max-width: 610px) {
+@media (max-width: 610.5px) {
   .navRight {
     text-align: center;
     width: 100%;
@@ -89,7 +89,7 @@ nav {
   height: 100%;
   overflow: hidden;
   margin: 0 5px;
-  padding: 120px 6.5%;
+  padding: 120px 6.5% 72px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -189,7 +189,7 @@ nav {
   height: 100%;
   overflow: hidden;
   margin: 0 5px;
-  padding: 120px 2%;
+  padding: 72px 2% ;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -238,7 +238,7 @@ nav {
 .box3 {
   overflow: hidden;
   border-top: 5px dashed black;
-  padding: 100px 0;
+  padding: 72px 0;
   h1 {
     padding: 6px 12px;
     text-align: center;
@@ -296,7 +296,7 @@ nav {
 .box4 {
   overflow: hidden;
   border-top: 5px dashed black;
-  padding: 100px 0;
+  padding: 72px 0;
   h1 {
     padding: 6px 12px;
     text-align: center;
@@ -317,6 +317,9 @@ nav {
 }
 .a1 {
   margin: 1%;
+  display: flex;
+  flex-direction: column;
+  font-size: 1rem;
 }
 @media (max-width: 1000px) {
   .container video {
@@ -326,7 +329,7 @@ nav {
 
 /**contact**/
 .box5 {
-  padding: 100px 0;
+  padding: 72px 0;
   overflow: hidden;
   border-top: 5px dashed black;
   display: flex;
@@ -368,7 +371,7 @@ form input:hover {
 }
 footer {
   overflow: hidden;
-  padding: 100px 2%;
+  padding: 72px 2%;
   width: 100%;
   text-align: center;
   border-top: 5px dashed black;
