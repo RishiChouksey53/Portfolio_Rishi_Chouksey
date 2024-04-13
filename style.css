@@ -131,7 +131,7 @@ nav {
     color: red;
   }
 }
-.i2:hover{
+.i2:hover {
   background-color: #000;
 }
 
@@ -312,7 +312,7 @@ nav {
   justify-content: center;
 }
 .container video {
-  height: 500px;
+  max-height: 350px;
   border-radius: 15px;
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
