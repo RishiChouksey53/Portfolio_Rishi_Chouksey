@@ -34,6 +34,7 @@ nav {
     text-transform: uppercase;
     display: inline-block;
     font-weight: bold;
+    height: 6.125rem;
   }
   a {
     padding: 6px 12px;
@@ -72,7 +73,6 @@ nav {
       border-radius: 5px;
       margin: 5px;
       background-color: #ffffff99;
-      padding: 1%;
     }
     li {
       display: flex;
@@ -388,7 +388,7 @@ footer {
   border-top: 5px dashed #232323;
 }
 #top {
-  background-color: #00000050;
+  background-color: #ffffff25;
   padding: 10px 16.7px;
   text-align: center;
   font-size: 2rem;
