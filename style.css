@@ -39,6 +39,7 @@ nav {
   a {
     padding: 6px 12px;
     border-radius: 5px;
+    height: 6.125rem;
   }
 }
 .navRight a:hover {
