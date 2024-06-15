@@ -221,6 +221,7 @@ nav {
   gap: 8px;
   h1 {
     font-size: 2rem;
+    text-align: center;
   }
   h2 {
     font-size: 1.875rem;
@@ -303,6 +304,7 @@ nav {
 /**project**/
 
 .box4 {
+  text-align: center;
   overflow: hidden;
   border-top: 5px dashed #232323;
   padding: 72px 0;
